@@ -1,0 +1,12 @@
+---
+title: "Resume"
+format:
+  html:
+    theme: flatly
+    toc: true
+---
+
+### My Resume!
+<iframe src="Irene_Zhang_Research_CV_1.pdf" width="100%" height="800px" style="border: none; margin: 0; padding: 0;"></iframe>
+
+[Download my Resume](Irene_Zhang_Research_CV_1.pdf){target="_blank"}

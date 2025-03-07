@@ -1,0 +1,47 @@
+---
+title: "Projects"
+---
+
+## [How “Gym Bro” Are UCLA Students?](https://ucladatares.medium.com/how-gym-bro-are-ucla-students-608e82241592#:~:text=While%20most%20of%20the%20gym,as%20a%20UCLA%20gym%20bro.)
+
+An article analyzing the gym habits of UCLA students.
+
+- Conducted a survey of **188 UCLA students** to analyze gym habits, preferences, and behaviors, focusing on metrics like frequency, gym choice, and focus areas.
+- Performed **data analysis in Python**, identifying a positive correlation between gym frequency and self-reported proficiency.
+- Presented findings to an **audience of 100**, effectively communicating insights with **data visualizations**.
+
+
+
+## [An Investigation of the K-pop Craze](https://ucladatares.medium.com/an-investigation-of-the-k-pop-craze-d750819456ba)
+
+An article analyzing the trends of K-Pop songs from 2016-2021.
+
+- Analyzed **70 hit K-pop songs (2016-2021)** to identify trends in release timing, fan demographics, and musical features using public datasets and statistical software.
+- Utilized **Spotify Web API** to examine correlations between song attributes, identifying factors influencing popularity and fan engagement.
+- Presented findings to **100+ members**, communicating insights and trends through **data visualizations**.
+
+
+## [Subtle Asian Real Estate Ladies](https://subtlerealestate.com/)
+
+Provided strategic consultation to Subtle Asian Real Estate Ladies on expanding their community and increasing engagement.
+
+- Performed thorough data analysis despite limited, **60 participant dataset size**, employing advanced analytical techniques in Python to inform decision-making processes.
+- Interpreted and presented findings from **8 graphs**, guiding a diverse community of **21,000+ AAPI investors** in making informed investment decisions.
+- Effectively communicated complex data insights to the board, fostering data literacy and facilitating understanding across stakeholders.
+
+## [OKTY](https://outlierventures.io/portfolio/okty/)
+
+Advised OKTY on strategies to deliver the right product to the right person at the right time.
+
+
+- Analyzed, cleaned **10,000+ lines of location, user, and transaction data** to evaluate individual user portfolios, aiming to bring the right product to the right person at the right time.
+- Developed real-time tracking and aggregation systems for geographic location data to serve an international customer base across **2+ continents and 40+ states**.
+- Presented nuanced findings to the OKTY founder and engaged in further discussion via Zoom to address inquiries and provide clarification.
+
+## [Chelle AI](https://chelle.ai/)
+
+Developed knowledge graphs from NextJS data using Python, NetworkX, and OpenAI embeddings for ChelleAI.
+
+- Developed knowledge graphs from NextJS data with Python and NetworkX using the integration of OpenAI embeddings.
+- Used HTML Web Scraping and BeautifulSoup package to explore the structure of NextJS documents for web scraping.
+- Presented nuanced findings to Chelle AI founder and engaged in further discussion via Zoom to address inquiries and provide clarification.

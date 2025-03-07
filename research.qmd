@@ -1,0 +1,22 @@
+---
+title: "Research"
+---
+### Establishing Causal Link between Hypertension and Late-Stage Dementia  
+#### Irvine Summer Institute in Biostatistics and Undergraduate Data Science, National Institute of Biostatistics, Irvine  
+**Supervisor:** Dr. Maria Corrada, Dr. Tianchen Qian  
+**Principal Investigator:** Jiaxin Yu  
+
+- Established a causal link between hypertension and late-stage dementia using inverse probability weighting on 90+ Study and Leisure World Cohort data (n=559), showing 41% lower odds of dementia for individuals with hypertension.
+- Worked with Dr. Maria Corrada and Dr. Tianchen Qian to manage missing data with Multiple Imputation by Chained Equations (MICE) and accounted for imputation uncertainty by applying Rubin’s Rule, allowing applied logistic/multivariate regression.
+- Experimenting with machine learning (Random Forests, General Additive Models) and more efficient causal inference techniques (Doubly Robust Method), resulting in more robust findings.
+- Presented findings to 50+ professors and students at the SIBS-sponsored research symposium.
+
+### Visual Perceptual Learning and its Generalization through Video Games  
+#### Dr. Zili Liu’s Perceptual Processing and Computational Lab  
+**Supervisor:** Dr. Zili Liu  
+**Principal Investigator:** Maggie Yeh  
+
+- Conducted research on visual perceptual learning and its generalization through video games, focusing on experimental design, data collection, and data analysis.
+- Troubleshot technical issues, adjusted testing protocols, and addressed confounding variables to strengthen data reliability under principal investigator, Dr. Maggie Yeh.
+- Managed participant interactions, calibrated eye trackers and monitors, standardized protocols, and streamlined data collection under principal investigator, Dr. Maggie Yeh, to minimize confounding of experimental conditions.
+- Performed logistic regression on binary visual task trials to plot psychometric curves predicting participant performance using R and Python.
