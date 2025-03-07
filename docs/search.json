@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi there! I’m Irene Zhang — thanks so much for stopping by!\nI’m an undergrad at UCLA studying Statistics and Data Science with a minor in Public Health, and I’m super excited to be pursuing a PhD in Biostatistics at UCLA starting in 2025.\nDuring undergrad, I’ve loved getting involved in the data science community. I lead the student committee for DataFest, the largest data science hackathon on the West Coast, and head up a group of article writers at DataResolutions, where we tell stories through data on topics like public health, tech, and everything in between.\nI’m currently part of two research labs! At Dr. Zili Liu’s lab, I explored how video games can aid visual perceptual learning — and learned just how tricky (and rewarding!) data collection can be. In another project under Dr. Maria Corrada and Dr. Tianchen Qian, I investigated the link between hypertension and dementia in the oldest-old, diving into causal inference methods and how statistics can tackle big questions in public health.\nOutside of data science, I’m always on the lookout for new food spots, love exploring campus at night, and recently got back into creative writing — something I’ve been loving lately.\nIf you ever want to chat about breaking into grad school, working on a project together, or just share book or food recs, I’m always happy to connect. Let’s chat!\n\n\n\nResearch-wise, I an aspiring PhD student with a strong interest in Biostatistics research. Particularly, I am focused on the application of statistical methodologies to the analysis of biological data, particularly regarding clinical trials and psychiatric research.\nMy long-term goal is to become an essential contributor to the drug analysis process. Becoming a senior biostatistician would allow me to directly influence trial design, a critical aspect of effective pharmaceutical research. I am committed to applying the skills I develop in graduate school to a role where I can save lives and advance healthcare outcomes.\n\n\n\nUniversity of California, Los Angeles (UCLA)\nLos Angeles, CA\nBachelor of Science in Statistics and Data Science\nMinor in Public Health\nGPA: 3.88"
+    "text": "GitHub\n\n\nHi there! I’m Irene Zhang — thanks so much for stopping by!\nI’m an undergrad at UCLA studying Statistics and Data Science with a minor in Public Health, and I’m super excited to be pursuing a PhD in Biostatistics at UCLA starting in 2025.\nDuring undergrad, I’ve loved getting involved in the data science community. I lead the student committee for DataFest, the largest data science hackathon on the West Coast, and head up a group of article writers at DataResolutions, where we tell stories through data on topics like public health, tech, and everything in between.\nI’m currently part of two research labs! At Dr. Zili Liu’s lab, I explored how video games can aid visual perceptual learning — and learned just how tricky (and rewarding!) data collection can be. In another project under Dr. Maria Corrada and Dr. Tianchen Qian, I investigated the link between hypertension and dementia in the oldest-old, diving into causal inference methods and how statistics can tackle big questions in public health.\nOutside of data science, I’m always on the lookout for new food spots, love exploring campus at night, and recently got back into creative writing — something I’ve been loving lately.\nIf you ever want to chat about breaking into grad school, working on a project together, or just share book or food recs, I’m always happy to connect. Let’s chat!\n\n\n\nResearch-wise, I an aspiring PhD student with a strong interest in Biostatistics research. Particularly, I am focused on the application of statistical methodologies to the analysis of biological data, particularly regarding clinical trials and psychiatric research.\nMy long-term goal is to become an essential contributor to the drug analysis process. Becoming a senior biostatistician would allow me to directly influence trial design, a critical aspect of effective pharmaceutical research. I am committed to applying the skills I develop in graduate school to a role where I can save lives and advance healthcare outcomes.\n\n\n\nUniversity of California, Los Angeles (UCLA)\nLos Angeles, CA\nBachelor of Science in Statistics and Data Science\nMinor in Public Health\nGPA: 3.88\n\n\n\n  \n  \n  \n    \n     irenezhang0401@gmail.com\n  \n  \n    \n     GitHub"
   },
   {
     "objectID": "index.html#who-i-am",
@@ -35,17 +35,52 @@
     "text": "My Resume!\n\n\nDownload my Resume"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Establishing Causal Link between Hypertension and Late-Stage Dementia\n\nIrvine Summer Institute in Biostatistics and Undergraduate Data Science, National Institute of Biostatistics, Irvine\nSupervisor: Dr. Maria Corrada, Dr. Tianchen Qian\nPrincipal Investigator: Jiaxin Yu\n\nEstablished a causal link between hypertension and late-stage dementia using inverse probability weighting on 90+ Study and Leisure World Cohort data (n=559), showing 41% lower odds of dementia for individuals with hypertension.\nWorked with Dr. Maria Corrada and Dr. Tianchen Qian to manage missing data with Multiple Imputation by Chained Equations (MICE) and accounted for imputation uncertainty by applying Rubin’s Rule, allowing applied logistic/multivariate regression.\nExperimenting with machine learning (Random Forests, General Additive Models) and more efficient causal inference techniques (Doubly Robust Method), resulting in more robust findings.\nPresented findings to 50+ professors and students at the SIBS-sponsored research symposium.\n\n\n\n\nVisual Perceptual Learning and its Generalization through Video Games\n\nDr. Zili Liu’s Perceptual Processing and Computational Lab\nSupervisor: Dr. Zili Liu\nPrincipal Investigator: Maggie Yeh\n\nConducted research on visual perceptual learning and its generalization through video games, focusing on experimental design, data collection, and data analysis.\nTroubleshot technical issues, adjusted testing protocols, and addressed confounding variables to strengthen data reliability under principal investigator, Dr. Maggie Yeh.\nManaged participant interactions, calibrated eye trackers and monitors, standardized protocols, and streamlined data collection under principal investigator, Dr. Maggie Yeh, to minimize confounding of experimental conditions.\nPerformed logistic regression on binary visual task trials to plot psychometric curves predicting participant performance using R and Python."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "An article analyzing the gym habits of UCLA students.\n\nConducted a survey of 188 UCLA students to analyze gym habits, preferences, and behaviors, focusing on metrics like frequency, gym choice, and focus areas.\nPerformed data analysis in Python, identifying a positive correlation between gym frequency and self-reported proficiency.\nPresented findings to an audience of 100, effectively communicating insights with data visualizations."
+  },
+  {
+    "objectID": "projects.html#how-gym-bro-are-ucla-students",
+    "href": "projects.html#how-gym-bro-are-ucla-students",
+    "title": "Projects",
+    "section": "",
+    "text": "An article analyzing the gym habits of UCLA students.\n\nConducted a survey of 188 UCLA students to analyze gym habits, preferences, and behaviors, focusing on metrics like frequency, gym choice, and focus areas.\nPerformed data analysis in Python, identifying a positive correlation between gym frequency and self-reported proficiency.\nPresented findings to an audience of 100, effectively communicating insights with data visualizations."
+  },
+  {
+    "objectID": "projects.html#an-investigation-of-the-k-pop-craze",
+    "href": "projects.html#an-investigation-of-the-k-pop-craze",
+    "title": "Projects",
+    "section": "An Investigation of the K-pop Craze",
+    "text": "An Investigation of the K-pop Craze\nAn article analyzing the trends of K-Pop songs from 2016-2021.\n\nAnalyzed 70 hit K-pop songs (2016-2021) to identify trends in release timing, fan demographics, and musical features using public datasets and statistical software.\nUtilized Spotify Web API to examine correlations between song attributes, identifying factors influencing popularity and fan engagement.\nPresented findings to 100+ members, communicating insights and trends through data visualizations."
+  },
+  {
+    "objectID": "projects.html#subtle-asian-real-estate-ladies",
+    "href": "projects.html#subtle-asian-real-estate-ladies",
+    "title": "Projects",
+    "section": "Subtle Asian Real Estate Ladies",
+    "text": "Subtle Asian Real Estate Ladies\nProvided strategic consultation to Subtle Asian Real Estate Ladies on expanding their community and increasing engagement.\n\nPerformed thorough data analysis despite limited, 60 participant dataset size, employing advanced analytical techniques in Python to inform decision-making processes.\nInterpreted and presented findings from 8 graphs, guiding a diverse community of 21,000+ AAPI investors in making informed investment decisions.\nEffectively communicated complex data insights to the board, fostering data literacy and facilitating understanding across stakeholders."
+  },
+  {
+    "objectID": "projects.html#okty",
+    "href": "projects.html#okty",
+    "title": "Projects",
+    "section": "OKTY",
+    "text": "OKTY\nAdvised OKTY on strategies to deliver the right product to the right person at the right time.\n\nAnalyzed, cleaned 10,000+ lines of location, user, and transaction data to evaluate individual user portfolios, aiming to bring the right product to the right person at the right time.\nDeveloped real-time tracking and aggregation systems for geographic location data to serve an international customer base across 2+ continents and 40+ states.\nPresented nuanced findings to the OKTY founder and engaged in further discussion via Zoom to address inquiries and provide clarification."
+  },
+  {
+    "objectID": "projects.html#chelle-ai",
+    "href": "projects.html#chelle-ai",
+    "title": "Projects",
+    "section": "Chelle AI",
+    "text": "Chelle AI\nDeveloped knowledge graphs from NextJS data using Python, NetworkX, and OpenAI embeddings for ChelleAI.\n\nDeveloped knowledge graphs from NextJS data with Python and NetworkX using the integration of OpenAI embeddings.\nUsed HTML Web Scraping and BeautifulSoup package to explore the structure of NextJS documents for web scraping.\nPresented nuanced findings to Chelle AI founder and engaged in further discussion via Zoom to address inquiries and provide clarification."
   }
 ]

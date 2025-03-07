@@ -9,11 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - href: research.qmd
+        text: Research
       - href: resume.qmd
         text: Resume
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: instagram
+        href: https://instagram.com/irenez0516
       - icon: github
         href: https://github.com/irenez0516
   page-footer:
