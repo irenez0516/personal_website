@@ -3,17 +3,40 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/cuter_profile.jpg
 ---
 
 :::{#me}
 
+## Who I am!
+
+Hi there! I’m Irene Zhang — thanks so much for stopping by!
+
+I’m an undergrad at UCLA studying Statistics and Data Science with a minor in Public Health, and I’m super excited to be pursuing a PhD in Biostatistics at UCLA starting in 2025.
+
+During undergrad, I’ve loved getting involved in the data science community. I lead the student committee for DataFest, the largest data science hackathon on the West Coast, and head up a group of article writers at DataResolutions, where we tell stories through data on topics like public health, tech, and everything in between.
+
+I'm currently part of two research labs! At Dr. Zili Liu’s lab, I explored how video games can aid visual perceptual learning — and learned just how tricky (and rewarding!) data collection can be. In another project under Dr. Maria Corrada and Dr. Tianchen Qian, I investigated the link between hypertension and dementia in the oldest-old, diving into causal inference methods and how statistics can tackle big questions in public health.
+
+Outside of data science, I’m always on the lookout for new food spots, love exploring campus at night, and recently got back into creative writing — something I’ve been loving lately.
+
+If you ever want to chat about breaking into grad school, working on a project together, or just share book or food recs, I’m always happy to connect. Let’s chat!
+
 ## Goals
+Research-wise, I an aspiring PhD student with a strong interest in Biostatistics research. Particularly, I am focused on the application of statistical methodologies to the analysis of biological data, particularly regarding clinical trials and psychiatric research.
+
+My long-term goal is to become an essential contributor to the drug analysis process. Becoming a senior biostatistician would allow me to directly influence trial design, a critical aspect of effective pharmaceutical research. I am committed to applying the skills I develop in graduate school to a role where I can save lives and advance healthcare outcomes. 
 
 ## Education
+University of California, Los Angeles (UCLA)\
+Los Angeles, CA\
+Bachelor of Science in Statistics and Data Science \
+Minor in Public Health\
+GPA: 3.88\
+
+
 
 ## Experience
 
 :::
 
-Thanks for checking out my web site!

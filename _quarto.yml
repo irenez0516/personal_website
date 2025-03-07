@@ -3,24 +3,26 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Irene Zhang's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - href: resume.qmd
+        text: Resume
     tools:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/irenez0516
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023, Irene Zhang"
 
 format:
   html:
-    theme: cerulean
+    theme: flatly
     toc: true
 
 editor: source

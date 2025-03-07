@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi there! I’m Irene Zhang — thanks so much for stopping by!\nI’m an undergrad at UCLA studying Statistics and Data Science with a minor in Public Health, and I’m super excited to be pursuing a PhD in Biostatistics at UCLA starting in 2025.\nDuring undergrad, I’ve loved getting involved in the data science community. I lead the student committee for DataFest, the largest data science hackathon on the West Coast, and head up a group of article writers at DataResolutions, where we tell stories through data on topics like public health, tech, and everything in between.\nI’m currently part of two research labs! At Dr. Zili Liu’s lab, I explored how video games can aid visual perceptual learning — and learned just how tricky (and rewarding!) data collection can be. In another project under Dr. Maria Corrada and Dr. Tianchen Qian, I investigated the link between hypertension and dementia in the oldest-old, diving into causal inference methods and how statistics can tackle big questions in public health.\nOutside of data science, I’m always on the lookout for new food spots, love exploring campus at night, and recently got back into creative writing — something I’ve been loving lately.\nIf you ever want to chat about breaking into grad school, working on a project together, or just share book or food recs, I’m always happy to connect. Let’s chat!\n\n\n\nResearch-wise, I an aspiring PhD student with a strong interest in Biostatistics research. Particularly, I am focused on the application of statistical methodologies to the analysis of biological data, particularly regarding clinical trials and psychiatric research.\nMy long-term goal is to become an essential contributor to the drug analysis process. Becoming a senior biostatistician would allow me to directly influence trial design, a critical aspect of effective pharmaceutical research. I am committed to applying the skills I develop in graduate school to a role where I can save lives and advance healthcare outcomes.\n\n\n\nUniversity of California, Los Angeles (UCLA)\nLos Angeles, CA\nBachelor of Science in Statistics and Data Science\nMinor in Public Health\nGPA: 3.88"
+  },
+  {
+    "objectID": "index.html#who-i-am",
+    "href": "index.html#who-i-am",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi there! I’m Irene Zhang — thanks so much for stopping by!\nI’m an undergrad at UCLA studying Statistics and Data Science with a minor in Public Health, and I’m super excited to be pursuing a PhD in Biostatistics at UCLA starting in 2025.\nDuring undergrad, I’ve loved getting involved in the data science community. I lead the student committee for DataFest, the largest data science hackathon on the West Coast, and head up a group of article writers at DataResolutions, where we tell stories through data on topics like public health, tech, and everything in between.\nI’m currently part of two research labs! At Dr. Zili Liu’s lab, I explored how video games can aid visual perceptual learning — and learned just how tricky (and rewarding!) data collection can be. In another project under Dr. Maria Corrada and Dr. Tianchen Qian, I investigated the link between hypertension and dementia in the oldest-old, diving into causal inference methods and how statistics can tackle big questions in public health.\nOutside of data science, I’m always on the lookout for new food spots, love exploring campus at night, and recently got back into creative writing — something I’ve been loving lately.\nIf you ever want to chat about breaking into grad school, working on a project together, or just share book or food recs, I’m always happy to connect. Let’s chat!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Research-wise, I an aspiring PhD student with a strong interest in Biostatistics research. Particularly, I am focused on the application of statistical methodologies to the analysis of biological data, particularly regarding clinical trials and psychiatric research.\nMy long-term goal is to become an essential contributor to the drug analysis process. Becoming a senior biostatistician would allow me to directly influence trial design, a critical aspect of effective pharmaceutical research. I am committed to applying the skills I develop in graduate school to a role where I can save lives and advance healthcare outcomes."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "University of California, Los Angeles (UCLA)\nLos Angeles, CA\nBachelor of Science in Statistics and Data Science\nMinor in Public Health\nGPA: 3.88"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "My Resume!\n\n\nDownload my Resume"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +47,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
